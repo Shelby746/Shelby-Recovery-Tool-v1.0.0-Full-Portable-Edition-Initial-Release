@@ -1,7 +1,3 @@
-🚀 Shelby Recovery Tool
-
-Source Code Repository
-
 <p align="center">
   <strong>Android Device Servicing & Recovery Toolkit</strong>
   <br>
