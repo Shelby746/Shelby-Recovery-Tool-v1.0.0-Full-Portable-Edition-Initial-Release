@@ -2,7 +2,7 @@
   <strong>Android Device Servicing & Recovery Toolkit</strong>
   <br>
   Source Code • Development Resources • Utilities
-</p>---
+</p>
 
 📌 About
 
